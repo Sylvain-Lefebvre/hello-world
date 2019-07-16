@@ -1,4 +1,4 @@
-Projet pour suivre le progrès de deux versions du programme Hello Word!
+Projet pour suivre le progrès de deux versions du programme Hello World!
 
-./hello-word.c: en langage C.  Celui-ci doit être compilé pour s'exécuter.  Sous ubuntu: gcc hello-word.c créera le fichier a.out, puis ./a.out affichera Hello, Word! à l'écran
-./hello-word.awk: en langage AWK.  awk hello-word.awk affichera le message à l'écran
+./hello-world.c: en langage C.  Celui-ci doit être compilé pour s'exécuter.  Sous ubuntu: gcc hello-world.c créera le fichier a.out, puis ./a.out affichera Hello, World! à l'écran
+./hello-world.awk: en langage AWK.  awk hello-world.awk affichera le message à l'écran
